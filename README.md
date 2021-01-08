@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Aris187 ID
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm HANS 
 <p align="center">
 <img src="https://raw.githubusercontent.com/A187ID/AR15BOT/main/temp/A187.jpg" width="230" height="230"/>
 </p>
@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<a href="#"><img title="👾AR15BOT👾" src="https://img.shields.io/badge/AR15BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="👾HansBot👾" src="https://img.shields.io/badge/HansBot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/A187ID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARIS187 ID-orange.svg?style=for-the-badge&logo=github"></a>
@@ -48,14 +48,14 @@ Siapin alat dan bahannya.
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-Script ini di modifikasi sama saya sendiri Aris187 ID.
+Script ini di modifikasi sama saya sendiri Hans.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > termux-setup-storage
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/A187ID/AR15BOT
+> git clone https://github.com/hans-sys/HansBot
 > cd AR15BOT
 > npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
@@ -68,7 +68,6 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
 |       ✅       | Covid (new)                      |
-|       ✅       | Alay (new)                       |
 |       ✅       | Lirik (new)                      |
 |       ✅       | Foto Anime                       |
 |       ✅       | Foto cewek/cowok (new)           |
@@ -103,20 +102,20 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 Ket: Aktiv 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 👾AR15BOT👾`](https://saweria.co/aris187id)
+* [`Donasi 👾Hans👾`](082285537176)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 * [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
-* [`WhatsApp Admin `](https://wa.me/+6285722553839)
+* [`Instagram Admin`](https://instagram.com/hansmlbbyt)
+* [`WhatsApp Admin `](https://wa.me/+6282285537176)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 * [`ArugaZ`](https://github.com/ArugaZ/whatsapp-bot)
 * [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
-* [`Alfbot`](https://github.com/alfiansx/alfbot)
+* [`HansBot`](https://github.com/hans-sys/HansBot)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
